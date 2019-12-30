@@ -36,9 +36,7 @@ public class SwaggerConfiguration {
                 "App to demonstrate CQRS & ES based on Spring Boot and Axon",
                 "0.0.1-SNAPSHOT",
                 "Terms of Service",
-                new Contact("Nebrass Lamouchi",
-                        "https://blog.nebrass.fr",
-                        "lnibrass@gmail.com"),
+                new Contact("Nebrass Lamouchi",null, null),
                 "",
                 "",
                 Collections.emptyList());
